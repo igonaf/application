@@ -1,0 +1,27 @@
+{
+    "name": "litovka/application",
+    "description": "application",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "igonaf",
+            "email": "litovkahappy@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+      "litovka/framework": "dev-dev"
+    },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/igonaf/framework.git"
+    }
+  ],
+  "autoload": {
+      "psr-4": {
+          "Litovka\\Application\\": "src/"
+      }
+  }
+}

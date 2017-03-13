@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "54378efa0cce5172fd6c68bdd3b8b644",
+    "packages": [
+        {
+            "name": "litovka/framework",
+            "version": "dev-dev",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/igonaf/framework.git",
+                "reference": "38a8d371c5716fef12f3ccc158d486c854a6ebff"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/igonaf/framework/zipball/38a8d371c5716fef12f3ccc158d486c854a6ebff",
+                "reference": "38a8d371c5716fef12f3ccc158d486c854a6ebff",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Litovka\\Framework\\": "src/"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "igonaf",
+                    "email": "litovkahappy@gmail.com"
+                }
+            ],
+            "description": "library",
+            "support": {
+                "source": "https://github.com/igonaf/framework/tree/dev",
+                "issues": "https://github.com/igonaf/framework/issues"
+            },
+            "time": "2017-03-13 15:01:39"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "litovka/framework": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
