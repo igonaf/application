@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/igonaf/framework.git",
-                "reference": "38a8d371c5716fef12f3ccc158d486c854a6ebff"
+                "reference": "e0e9f17e4aba8643811d2280bc48cd947b12faa8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/igonaf/framework/zipball/38a8d371c5716fef12f3ccc158d486c854a6ebff",
-                "reference": "38a8d371c5716fef12f3ccc158d486c854a6ebff",
+                "url": "https://api.github.com/repos/igonaf/framework/zipball/e0e9f17e4aba8643811d2280bc48cd947b12faa8",
+                "reference": "e0e9f17e4aba8643811d2280bc48cd947b12faa8",
                 "shasum": ""
             },
             "type": "library",
@@ -40,7 +40,7 @@
                 "source": "https://github.com/igonaf/framework/tree/dev",
                 "issues": "https://github.com/igonaf/framework/issues"
             },
-            "time": "2017-03-13 15:01:39"
+            "time": "2017-04-14 11:26:33"
         }
     ],
     "packages-dev": [],
